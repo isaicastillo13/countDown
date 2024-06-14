@@ -1,0 +1,17 @@
+.contenedor__video{
+    display: flex;
+    justify-content: center; /* Centra el contenido horizontalmente */
+    align-items: flex-start;
+    h1{
+        font-size: 2rem;
+        width: 480px;
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: .5rem;
+        position: absolute;
+        margin-top: 8px;
+        font-family: $fuente_principal;
+        font-weight: $bold;
+        color: white;
+    }
+}

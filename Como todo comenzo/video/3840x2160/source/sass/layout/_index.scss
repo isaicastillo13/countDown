@@ -1,0 +1,17 @@
+.contenedor__video{
+    position: relative;
+    h1{
+        position: absolute;
+        font-family: $fuente_principal;
+        font-weight: $bold;
+        text-transform: uppercase;
+        letter-spacing:1rem;
+        text-align: center;
+        font-size: 12rem;
+        color: white;
+        margin:8px;
+        width: 2160px;
+        transform: translateY(958px) translateX(-930px) rotate(-90deg);
+    }
+    
+}
